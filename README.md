@@ -144,3 +144,8 @@ ESP32_MQ4_PORTAL/
 **T Rohan Kini**  
 B.Tech Computer Science & Engineering, NMAMIT  
 ESP32 | Embedded Systems | IoT | React Native | Robotics
+
+---
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rohankini) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RohanKinirk) 
+
